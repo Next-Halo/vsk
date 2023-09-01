@@ -304,9 +304,11 @@
 	em, i {
 		font-style: italic;
 	}
-
+	audio {
+		padding-bottom: 10px;
+	}
 	p {
-		margin: 0 0 1.5rem 0;
+		margin: 0 0 0.3rem 0;
 	}
 
 		body.is-ie p {
