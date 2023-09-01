@@ -1,0 +1,33 @@
+# Site settings
+title: VSK.ai
+subtitle: Act Digital Serbia 
+email: ognjen.tomic@actdigital.com
+description: Sounding the Language of Vuk, vsk.ai - Where Serbian TTS Comes to Life. Welcome to vsk.ai, your gateway to open-source Text-to-Speech technology tailored for the rich and diverse Serbian language. Join us in bringing Vuk Stefanović Karadžić's legacy to the digital age as we empower Serbian speakers to give voice to their words, naturally and authentically.
+
+baseurl: "/vsk.ai" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author: Act Digital Serbia
+street_address: Kneza Milosa 3
+city: Belgrade
+state: Stari grad
+zip_code: 11000
+country: Serboa
+phone: 
+
+# # Social settings
+# 500px_url:
+# facebook_url:
+# github_url:
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+# instagram_url: https://instagram.com
+# linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+# pinterest_url:
+# slack_url:
+# twitter_url: https://twitter.com/andrewbanchich
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
