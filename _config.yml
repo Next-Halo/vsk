@@ -3,7 +3,7 @@ title: VSK.ai
 subtitle: Act Digital Serbia 
 email: ognjen.tomic@actdigital.com
 description: Sounding the Language of Vuk, vsk.ai - Where Serbian TTS Comes to Life. Welcome to vsk.ai, your gateway to open-source Text-to-Speech technology tailored for the rich and diverse Serbian language. Join us in bringing Vuk Stefanović Karadžić's legacy to the digital age as we empower Serbian speakers to give voice to their words, naturally and authentically.
-
+decriptionOne: 
 baseurl: "/vsk.ai" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Act Digital Serbia
