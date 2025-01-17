@@ -1,17 +1,5 @@
 VSK.ai
 
-Add your site and author details in `_config.yml`.
+Vocalizing the Language of Vuk. Where Serbian TTS Comes to Life. 
 
 
-
-## Develop
-
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
